@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AIDS Awareness</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to your CSS file for styling -->
+</head>
+<body>
+    <header>
+        <h1>AIDS Awareness</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">About AIDS</a></li>
+                <li><a href="#prevention">Prevention</a></li>
+                <li><a href="#treatment">Treatment</a></li>
+                <li><a href="#resources">Resources</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>About AIDS</h2>
+        <p>AIDS (Acquired Immunodeficiency Syndrome) is a serious condition caused by HIV (Human Immunodeficiency Virus). It affects the immune system, making it difficult for the body to fight off infections and diseases.</p>
+        <p>People living with AIDS may experience various symptoms, including fatigue, weight loss, and recurrent infections. Early diagnosis and access to treatment are crucial for managing the condition.</p>
+    </section>
+
+    <section id="prevention">
+        <h2>Prevention</h2>
+        <p>Preventing HIV transmission is essential. Here are some key prevention strategies:</p>
+        <ul>
+            <li>Use condoms consistently and correctly.</li>
+            <li>Get tested and know your partner's HIV status.</li>
+            <li>Practice safe injection drug use.</li>
+            <li>Consider pre-exposure prophylaxis (PrEP) for high-risk individuals.</li>
+        </ul>
+    </section>
+
+    <section id="treatment">
+        <h2>Treatment</h2>
+        <p>Advancements in medical treatment have improved the lives of people living with HIV/AIDS. Antiretroviral therapy (ART) is the primary treatment, and it's available at various healthcare facilities.</p>
+        
+        <h3>Where to Get Treated</h3>
+        <p>You can receive AIDS treatment at:</p>
+        <ul>
+            <li>Public health clinics</li>
+            <li>Private healthcare providers</li>
+            <li>Hospitals with infectious disease departments</li>
+        </ul>
+
+        <h3>Tests and Treatments</h3>
+        <p>When you visit a healthcare facility for HIV/AIDS treatment, you can expect the following:</p>
+        <ul>
+            <li><strong>HIV Testing:</strong> Initial HIV tests to confirm the diagnosis.</li>
+            <li><strong>CD4 Count:</strong> Measures the immune system's health.</li>
+            <li><strong>Viral Load Test:</strong> Measures the amount of virus in the blood.</li>
+            <li><strong>Antiretroviral Therapy (ART):</strong> Medications to suppress the virus.</li>
+            <li><strong>Regular Check-ups:</strong> Monitoring and adjusting treatment as needed.</li>
+        </ul>
+
+        <h3>Costs</h3>
+        <p>The costs of HIV/AIDS tests and treatments vary depending on your location and healthcare provider. In many countries, public health programs provide free or subsidized HIV testing and treatment. Private healthcare providers may charge for services, and costs can vary widely.</p>
+        <p>It's essential to check with your local healthcare facilities or health authorities for specific information on costs and available financial assistance programs.</p>
+    </section>
+
+    <section id="resources">
+        <h2>Resources</h2>
+        <p>Here are some resources for learning more about AIDS and getting support:</p>
+        <ul>
+            <li><a href="https://www.who.int/hiv/en/">World Health Organization (WHO)</a></li>
+            <li><a href="https://www.cdc.gov/hiv/basics/index.html">CDC - HIV Basics</a></li>
+            <li><a href="https://www.aids.gov/">AIDS.gov</a></li>
+            <!-- Add more resource links here -->
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 AIDS Awareness</p>
+    </footer>
+</body>
+</html>
