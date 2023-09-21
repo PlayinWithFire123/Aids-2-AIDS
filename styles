@@ -1,0 +1,68 @@
+/* Apply general styles to the entire page */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff; /* White background */
+    color: #333; /* Dark text color */
+    margin: 0;
+    padding: 0;
+}
+
+/* Style the header */
+header {
+    background-color: #ff0000; /* Red background for the header */
+    color: #fff; /* White text color */
+    padding: 20px;
+    text-align: center;
+}
+
+/* Style the navigation menu */
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #fff; /* White link text color */
+    font-weight: bold;
+}
+
+/* Style the sections */
+section {
+    padding: 40px;
+    border-bottom: 2px solid #ff0000; /* Red line under each section */
+}
+
+/* Style section headings */
+section h2 {
+    color: #ff0000; /* Red heading text color */
+}
+
+/* Style section content */
+section p {
+    line-height: 1.5;
+}
+
+/* Style links within sections */
+section a {
+    color: #ff0000; /* Red link text color */
+    text-decoration: underline;
+}
+
+/* Style the footer */
+footer {
+    background-color: #ff0000; /* Red background for the footer */
+    color: #fff; /* White text color */
+    text-align: center;
+    padding: 10px;
+}
+
+/* Change link color on hover */
+a:hover {
+    color: #333; /* Dark text color on hover */
+}
